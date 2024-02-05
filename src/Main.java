@@ -364,3 +364,4 @@ public class Main {
 //        System.out.println("Проверка пройдена");
 //        return inputFromUser;
 //    }
+
